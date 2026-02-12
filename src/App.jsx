@@ -13,7 +13,7 @@ function App() {
       <Nav />
       <br />
       <label>
-        Search:
+        😢Search:😢
         <input name="myInput" onChange={setSearch}/>
       </label>
       <Table />
